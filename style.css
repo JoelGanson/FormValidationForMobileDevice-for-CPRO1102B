@@ -7,7 +7,7 @@ body {
   font-family: "Open Sans";
   font-size: 14px;
   background-image: url("https://i.imgur.com/VE4Ebp1.gif");
-  background-size: calc(120% + 40px);
+  background-size: 120%;
 }
 
 .container {
